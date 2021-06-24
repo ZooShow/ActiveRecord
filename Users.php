@@ -2,7 +2,7 @@
 
 class Users
 {
-    private $db;
+    private $pdo;
     private $USER_ID;
     private $PASSWORD;
     private $LOGGIN;
